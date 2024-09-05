@@ -97,7 +97,7 @@ The application supports three modes of operation:
 ## Sample Input
 ```àì´¨ àì´Æ àì´õÉ```
 
-## Sample Outputdf
+## Sample Output
 ```ईकं ईकः ईकृष्ण```
 
 
