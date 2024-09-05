@@ -11,19 +11,20 @@ This Python console application converts Akruti Devanagari script to Unicode Dev
 - **Batch Processing**: Convert multiple files in a folder at once.
 
 ## Directory Structure
-AkrutiDevanagariToUnicodeConverter/
-├── akruti_unicode_converter/     # All source code files will go here
-│   ├── main.py                   # Makes this folder a package
-│   ├── character_mapping.py      # Character mapping for Akruti to Unicode conversion
-│   ├── conversion.py             # Main conversion module
-│   ├── transformation.py         # Rules for transformations (e.g., vowel positioning)
-│   ├── reg_operations.py         # Regular expression operations for specific patterns
-│   ├── main.py                   # Entry point for the console application
-├── example_input/                # Folder for testing input files
-│   ├── sample1.txt               # Example input text file
-├── sample1.txt
-    ├──  converted_output/        # Folder for storing converted output files
-├── README.md                     # Documentation for the project
+\`\`\`
+├── akruti_unicode_converter/
+│   ├── character_mapping.py
+│   ├── conversion.py
+│   ├── transformation.py
+│   ├── reg_operations.py
+│   ├── main.py
+├── example_input/
+│   ├── sample1.txt
+├── converted_output/
+    ├── Convertedsample1.txt
+├── README.md
+\`\`\`
+
 
 
 
