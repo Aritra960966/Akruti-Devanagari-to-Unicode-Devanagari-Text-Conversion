@@ -93,6 +93,15 @@ The application supports three modes of operation:
 3. The application will convert the input to Unicode Devanagari and display it instantly.
 4. Type `exit` to quit real-time conversion mode.
 
+## Realtime conversion
+## Sample Input
+```àì´¨ àì´Æ àì´õÉ```
+
+## Sample Outputdf
+```ईकं ईकः ईकृष्ण```
+
+
+
 
 
 
