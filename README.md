@@ -12,7 +12,7 @@ This Python console application converts Akruti Devanagari script to Unicode Dev
 ## Directory Structure
 AkrutiDevanagariToUnicodeConverter/
 ├── akruti_unicode_converter/     # All source code files will go here
-│   ├── main.py               # Makes this folder a package
+│   ├── main.py                   # Makes this folder a package
 │   ├── character_mapping.py      # Character mapping for Akruti to Unicode conversion
 │   ├── conversion.py             # Main conversion module
 │   ├── transformation.py         # Rules for transformations (e.g., vowel positioning)
