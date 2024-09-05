@@ -105,3 +105,9 @@ Run this application by running ``main.py`
 ## Sample Output
 
 `ईकं ईकः ईकृष्ण`
+
+
+## Run this file by execution
+run ```main.py```
+and follow the how to use part
+
