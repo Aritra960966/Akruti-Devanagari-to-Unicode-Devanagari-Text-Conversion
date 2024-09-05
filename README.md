@@ -30,6 +30,7 @@ This Python console application converts Akruti Devanagari script to Unicode Dev
 
 
 ##Workflow
+```
 Start Application
        |
    User Input (Choose option)
@@ -54,6 +55,7 @@ Option 3 (Real-Time Conversion)
  Display Converted Text
    |
  Continue or Exit?
+```
 
 
 ## Modules Description
