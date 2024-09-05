@@ -11,7 +11,7 @@ This Python console application converts Akruti Devanagari script to Unicode Dev
 - **Batch Processing**: Convert multiple files in a folder at once.
 
 ## Directory Structure
-\`\`\`
+```
 ├── akruti_unicode_converter/
 │   ├── character_mapping.py
 │   ├── conversion.py
@@ -23,7 +23,7 @@ This Python console application converts Akruti Devanagari script to Unicode Dev
 ├── converted_output/
     ├── Convertedsample1.txt
 ├── README.md
-\`\`\`
+```
 
 
 
