@@ -3,6 +3,7 @@
 This Python console application converts Akruti Devanagari script to Unicode Devanagari script, with support for both single file and batch folder conversion. It features real-time conversion and error handling for unsupported characters.
 
 ## Features
+
 - **User-Friendly Interface**: The application provides a simple command-line interface to handle text file conversion.
 - **Model Integration**: A trained character mapping model for converting Akruti text to Unicode is integrated.
 - **Real-Time Conversion**: Users can input text in real-time and see the converted results instantly in the console.
